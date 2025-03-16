@@ -1,6 +1,7 @@
-# 💫 About Me:
+# 💫 About Me: Hi , Myself Kaustav 😉
 I'm currently working on Frontend Development.<br><br><br>I'm currently learning React.js<br>Ask me about Frontend Dev.<br>singing 90's Bollywood song.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaustavJu27&label=Profile%20views&color=0e75b6&style=flat" alt="KaustavJu27" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustav-m0ndal2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaustav709@gmail.com) 
