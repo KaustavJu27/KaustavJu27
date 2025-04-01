@@ -1,5 +1,10 @@
-# 💫 About Me: Hi , Myself Kaustav 😉
-I'm currently working on Frontend Development.<br><br><br>I'm currently learning React.js<br>Ask me about Frontend Dev.<br>singing 90's Bollywood song.
+# 💫 About Me: Hi, Myself **Kaustav** 😉  
+
+🔥 I'm currently working on **🌐 Backend Development**.  
+
+🚀 I'm learning **⚡ Node.js**.  
+💬 Ask me about **🛠️ Backend Dev**.  
+🎤 Singing **🎶 90’s Bollywood Songs** with vibes!  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KaustavJu27&label=Profile%20views&color=0e75b6&style=flat" alt="KaustavJu27" /> </p>
 
