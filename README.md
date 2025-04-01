@@ -1,7 +1,5 @@
 # 💫 About Me: Hi, Myself **Kaustav** 😉  
-
 🔥 I'm currently working on **🌐 Backend Development**.  
-
 🚀 I'm learning **⚡ Node.js**.  
 💬 Ask me about **🛠️ Backend Dev**.  
 🎤 Singing **🎶 90’s Bollywood Songs** with vibes!  
