@@ -1,16 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Kaustav%20Mondal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Kaustav%20Mondal&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-# Hi there, I'm Kaustav 👋
+# Hi 👋 I'm Kaustav Mondal
 
 ### Backend Developer • Full Stack Enthusiast • IT Undergraduate @ Jadavpur University
 
-<p align="center">
-Building scalable backend systems, modern web applications, and continuously improving through DSA & System Design.
-</p>
+Building scalable backend systems, REST APIs, and modern full-stack web applications.
 
 <p align="center">
+
 <a href="https://linkedin.com/in/kaustav-m0ndal2005">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -19,81 +18,33 @@ Building scalable backend systems, modern web applications, and continuously imp
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=KaustavJu27&style=for-the-badge&color=blue"/>
-
 </p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# ⚡ Tech Stack
 
-```yaml
-Name: Kaustav Mondal
-
-Education:
-  Degree: B.E. Information Technology
-  University: Jadavpur University
-
-Current Focus:
-  - Backend Development
-  - Node.js & Express
-  - REST APIs
-  - System Design
-
-Currently Learning:
-  - Advanced Backend Architecture
-  - Docker
-  - Redis
-  - Cloud Fundamentals
-
-Interests:
-  - Software Engineering
-  - Distributed Systems
-  - Product Engineering
-
-Fun Fact:
-  - I enjoy singing classic Bollywood songs 🎵
-```
-
----
-
-# 🚀 What I'm Working On
-
-```text
-Backend Development      ████████████░░░░░ 80%
-
-System Design            █████████░░░░░░░ 60%
-
-Full Stack Projects      ██████████░░░░░░ 70%
-
-DSA Practice             ███████████████░ 90%
-```
-
----
-
-# 💻 Tech Stack
-
-## Languages
+### Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
-## Frontend
+### Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 </p>
 
-## Backend
+### Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-## Tools
+### Tools
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
@@ -101,77 +52,129 @@ DSA Practice             ███████████████░ 90%
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-## 🩺 MediMinder
+<table>
 
-A complete medicine reminder and expiry tracking platform.
+<tr>
 
-### Features
+<td width="33%" valign="top">
 
-- JWT Authentication
-- Medicine Dashboard
-- Expiry Tracking
-- Secure REST APIs
-- Responsive UI
+<h3 align="center">🩺 MediMinder</h3>
 
-**Tech Stack**
+<p align="center">
 
-`React` `Express` `MongoDB` `JWT` `Tailwind CSS`
+<img src="https://placehold.co/500x260/111827/ffffff?text=MediMinder"/>
+
+</p>
+
+<p align="center">
+
+Medicine Reminder & Expiry Tracker with secure authentication and dashboard.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+
+<img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square"/>
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+Repository
+</a>
+
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🔗 ZipLink</h3>
+
+<p align="center">
+
+<img src="https://placehold.co/500x260/111827/ffffff?text=ZipLink"/>
+
+</p>
+
+<p align="center">
+
+Modern URL Shortener with analytics dashboard and QR generation.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs"/>
+
+<img src="https://img.shields.io/badge/MongoDB-green?style=flat-square&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss"/>
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+Repository
+</a>
+
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">🥗 HealthyBites</h3>
+
+<p align="center">
+
+<img src="https://placehold.co/500x260/111827/ffffff?text=HealthyBites"/>
+
+</p>
+
+<p align="center">
+
+AI-powered healthy recipe finder with authentication.
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase"/>
+
+<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss"/>
+
+</p>
+
+<p align="center">
+
+<a href="YOUR_REPOSITORY_LINK">
+Repository
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 🔗 ZipLink
-
-A modern URL Shortener with analytics and QR generation.
-
-### Features
-
-- URL Shortening
-- QR Code Generator
-- Click Analytics
-- Expiry Links
-- Dashboard
-
-**Tech Stack**
-
-`Next.js` `MongoDB` `Tailwind CSS`
-
----
-
-## 🥗 HealthyBites
-
-AI-powered recipe finder with authentication.
-
-### Features
-
-- AI Recipe Suggestions
-- Authentication
-- Modern UI
-- Responsive Design
-
-**Tech Stack**
-
-`React` `Supabase` `Tailwind CSS`
-
----
-
-# 🏆 Coding Profiles
-
-### 💻 LeetCode
-
-- Consistently solving Data Structures & Algorithms
-- Focus on Interview Preparation
-
-### 🚀 GitHub
-
-- Backend Projects
-- Full Stack Applications
-- Open Source Learning
-
----
-
-# 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -189,7 +192,7 @@ AI-powered recipe finder with authentication.
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -201,63 +204,9 @@ AI-powered recipe finder with authentication.
 
 # 🐍 Contribution Snake
 
-> Enable GitHub Actions to generate this automatically.
-
-```markdown
-![Snake animation](https://raw.githubusercontent.com/KaustavJu27/KaustavJu27/output/github-contribution-grid-snake-dark.svg)
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Become a strong Backend Engineer
-- ✅ Master Node.js & Express
-- 🔄 Learn Docker & Redis
-- 🔄 Learn AWS Basics
-- 🔄 Build Production-Level Projects
-- 🔄 Contribute to Open Source
-- 🔄 Improve System Design Skills
-
----
-
-# 📅 This Week
-
-```text
-Backend Development   ███████████░░░ 55%
-
-DSA Practice          ████████░░░░░░ 30%
-
-Projects              ███░░░░░░░░░░░ 10%
-
-Learning              █░░░░░░░░░░░░░ 5%
-```
-
----
-
-# 💡 Favorite Quote
-
-<div align="center">
-
-> **"First, solve the problem. Then, write the code."**
-
-**— John Johnson**
-
-</div>
-
----
-
-# 📫 Let's Connect
-
 <p align="center">
 
-<a href="mailto:kaustav709@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/kaustav-m0ndal2005">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img src="https://raw.githubusercontent.com/KaustavJu27/KaustavJu27/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -265,10 +214,10 @@ Learning              █░░░░░░░░░░░░░ 5%
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting!
 
-*"Building software that solves real-world problems, one project at a time."*
+If you find any of my projects interesting, feel free to explore the repositories or connect with me on LinkedIn.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2C5364,50:203A43,100:0F2027"/>
 
 </div>
