@@ -134,17 +134,17 @@ Repository
 
 <td width="33%" valign="top">
 
-<h3 align="center">🥗 HealthyBites</h3>
+<h3 align="center">💼 Placement Hub</h3>
 
 <p align="center">
 
-<img src="https://placehold.co/500x260/111827/ffffff?text=HealthyBites"/>
+<img src="https://placehold.co/500x260/111827/ffffff?text=Placement+Hub"/>
 
 </p>
 
 <p align="center">
 
-AI-powered healthy recipe finder with authentication.
+A centralized placement preparation platform with company-wise resources, aptitude materials, interview experiences, coding sheets, and progress tracking for students.
 
 </p>
 
@@ -152,18 +152,25 @@ AI-powered healthy recipe finder with authentication.
 
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
 
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js"/>
 
-<img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express"/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb"/>
+
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss"/>
 
 </p>
 
 <p align="center">
 
-<a href="YOUR_REPOSITORY_LINK">
-Repository
-</a>
+<a href="YOUR_LIVE_DEMO_LINK">🚀 Live Demo</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="YOUR_REPOSITORY_LINK">📂 Repository</a>
 
+</p>
+
+</td>
 </p>
 
 </td>
