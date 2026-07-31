@@ -1,63 +1,16 @@
-<!--
-# 💫 About Me: Hi, Myself **Kaustav** 😉  
-🔥 I'm currently working on **🌐 Backend Development**.  
-🚀 I'm learning **⚡ Node.js**.  
-💬 Ask me about **🛠️ Backend Dev**.  
-🎤 Singing **🎶 90’s Bollywood Songs** with vibes!  
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KaustavJu27&label=Profile%20views&color=0e75b6&style=flat" alt="KaustavJu27" /> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Kaustav%20Mondal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaustav-m0ndal2005) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaustav709@gmail.com) 
+# Hi there, I'm Kaustav 👋
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KaustavJu27&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KaustavJu27&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaustavJu27&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KaustavJu27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=KaustavJu27&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=KaustavJu27&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-<h1 align="center">Hi 👋, I'm Kaustav Mondal</h1>
-<h3 align="center">Backend Developer | Full Stack Enthusiast | IT Undergraduate at Jadavpur University</h3>
+### Backend Developer • Full Stack Enthusiast • IT Undergraduate @ Jadavpur University
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=KaustavJu27&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+Building scalable backend systems, modern web applications, and continuously improving through DSA & System Design.
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.E. Information Technology @ **Jadavpur University**
-- 💻 Passionate about **Backend Development** and **Scalable Web Applications**
-- 🌱 Currently learning **Node.js, Express.js & System Design**
-- 🔭 Building full-stack applications using the **MERN Stack**
-- 📚 Solving DSA problems regularly on LeetCode
-- 🎯 Interested in **Software Engineering**, **Backend Systems**, and **Product Engineering**
-- 🎵 Fun fact: I enjoy singing classic Bollywood songs.
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/kaustav-m0ndal2005">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -66,62 +19,159 @@
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=KaustavJu27&style=for-the-badge&color=blue"/>
+
 </p>
+
+</div>
 
 ---
 
-# 🛠 Tech Stack
+# 👨‍💻 About Me
 
-### Languages
+```yaml
+Name: Kaustav Mondal
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript" />
+Education:
+  Degree: B.E. Information Technology
+  University: Jadavpur University
+
+Current Focus:
+  - Backend Development
+  - Node.js & Express
+  - REST APIs
+  - System Design
+
+Currently Learning:
+  - Advanced Backend Architecture
+  - Docker
+  - Redis
+  - Cloud Fundamentals
+
+Interests:
+  - Software Engineering
+  - Distributed Systems
+  - Product Engineering
+
+Fun Fact:
+  - I enjoy singing classic Bollywood songs 🎵
+```
+
+---
+
+# 🚀 What I'm Working On
+
+```text
+Backend Development      ████████████░░░░░ 80%
+
+System Design            █████████░░░░░░░ 60%
+
+Full Stack Projects      ██████████░░░░░░ 70%
+
+DSA Practice             ███████████████░ 90%
+```
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
 </p>
 
-### Frontend
+## Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite" />
 </p>
 
-### Backend
+## Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### Tools
+## Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
-### 🩺 MediMinder
-Medicine Reminder & Expiry Tracker with Authentication, Dashboard, Notifications and Secure Backend.
+## 🩺 MediMinder
 
-**Tech Stack:** React • Express • MongoDB • JWT • Tailwind CSS
+A complete medicine reminder and expiry tracking platform.
 
----
+### Features
 
-### 🔗 ZipLink
-A URL Shortener with QR Code Generation, Analytics Dashboard and Click Tracking.
+- JWT Authentication
+- Medicine Dashboard
+- Expiry Tracking
+- Secure REST APIs
+- Responsive UI
 
-**Tech Stack:** Next.js • MongoDB • Tailwind CSS
+**Tech Stack**
 
----
-
-### 🥗 HealthyBites
-AI-powered Healthy Recipe Finder built with Supabase Authentication and Modern UI.
-
-**Tech Stack:** React • Supabase • Tailwind CSS
+`React` `Express` `MongoDB` `JWT` `Tailwind CSS`
 
 ---
 
-## 📈 GitHub Analytics
+## 🔗 ZipLink
+
+A modern URL Shortener with analytics and QR generation.
+
+### Features
+
+- URL Shortening
+- QR Code Generator
+- Click Analytics
+- Expiry Links
+- Dashboard
+
+**Tech Stack**
+
+`Next.js` `MongoDB` `Tailwind CSS`
+
+---
+
+## 🥗 HealthyBites
+
+AI-powered recipe finder with authentication.
+
+### Features
+
+- AI Recipe Suggestions
+- Authentication
+- Modern UI
+- Responsive Design
+
+**Tech Stack**
+
+`React` `Supabase` `Tailwind CSS`
+
+---
+
+# 🏆 Coding Profiles
+
+### 💻 LeetCode
+
+- Consistently solving Data Structures & Algorithms
+- Focus on Interview Preparation
+
+### 🚀 GitHub
+
+- Backend Projects
+- Full Stack Applications
+- Open Source Learning
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -139,36 +189,86 @@ AI-powered Healthy Recipe Finder built with Supabase Authentication and Modern U
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KaustavJu27&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KaustavJu27&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 🐍 Contribution Snake
 
-[![Kaustav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaustavJu27&theme=tokyo-night)](https://github.com/KaustavJu27)
+> Enable GitHub Actions to generate this automatically.
+
+```markdown
+![Snake animation](https://raw.githubusercontent.com/KaustavJu27/KaustavJu27/output/github-contribution-grid-snake-dark.svg)
+```
 
 ---
 
-## 💡 Quote
+# 🎯 2026 Goals
+
+- ✅ Become a strong Backend Engineer
+- ✅ Master Node.js & Express
+- 🔄 Learn Docker & Redis
+- 🔄 Learn AWS Basics
+- 🔄 Build Production-Level Projects
+- 🔄 Contribute to Open Source
+- 🔄 Improve System Design Skills
+
+---
+
+# 📅 This Week
+
+```text
+Backend Development   ███████████░░░ 55%
+
+DSA Practice          ████████░░░░░░ 30%
+
+Projects              ███░░░░░░░░░░░ 10%
+
+Learning              █░░░░░░░░░░░░░ 5%
+```
+
+---
+
+# 💡 Favorite Quote
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**
+
+**— John Johnson**
+
+</div>
+
+---
+
+# 📫 Let's Connect
 
 <p align="center">
 
-> "First, solve the problem. Then, write the code."
+<a href="mailto:kaustav709@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-— John Johnson
+<a href="https://linkedin.com/in/kaustav-m0ndal2005">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaustavJu27&theme=tokyonight"/>
+### ⭐ Thanks for visiting my profile!
 
-</p>
+*"Building software that solves real-world problems, one project at a time."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027"/>
+
+</div>
