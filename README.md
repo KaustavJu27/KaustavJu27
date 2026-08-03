@@ -190,7 +190,7 @@ Repository
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KaustavJu27&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaustavJu27&show_icons=true&theme=tokyonight&hide_border=true"/> -->
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaustavJu27&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -214,13 +214,25 @@ Repository
 
 ---
 
-# 🐍 Contribution Snake
+
+# 🏙️ GitHub Skyline
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/KaustavJu27/KaustavJu27/output/github-contribution-grid-snake-dark.svg"/>
+<a href="https://skyline.github.com/KaustavJu27">
+
+<img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
 
 </p>
+
+
+<!-- <p align="center"> -->
+
+<!-- <img src="https://raw.githubusercontent.com/KaustavJu27/KaustavJu27/output/github-contribution-grid-snake-dark.svg"/> # 🐍 Contribution Snake -->
+
+<!-- </p> -->
 
 ---
 
