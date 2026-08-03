@@ -88,7 +88,7 @@ Medicine Reminder & Expiry Tracker with secure authentication and dashboard.
 
 <p align="center">
 
-<a href[="(https://github.com/KaustavJu27/MediMinder_2026)">
+<a href="https://github.com/KaustavJu27/MediMinder_2026">
 Repository
 </a>
 
@@ -124,7 +124,7 @@ Modern URL Shortener with analytics dashboard and QR generation.
 
 <p align="center">
 
-<a href="(https://github.com/KaustavJu27/ZipLink)">
+<a href="https://github.com/KaustavJu27/ZipLink">
 Repository
 </a>
 
