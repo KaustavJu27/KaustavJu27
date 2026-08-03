@@ -164,9 +164,9 @@ A centralized placement preparation platform with company-wise resources, aptitu
 
 <p align="center">
 
-<a href="YOUR_LIVE_DEMO_LINK">🚀 Live Demo</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="YOUR_REPOSITORY_LINK">📂 Repository</a>
+<a href="YOUR_LIVE_DEMO_LINK"> Live Demo</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="YOUR_REPOSITORY_LINK"> Repository</a>
 
 </p>
 
