@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Kaustav%20Mondal&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-# Hi 👋 I'm Kaustav Mondal
+# # Hi there! 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+Something+New"/>
 
@@ -12,7 +12,7 @@ Building scalable backend systems, REST APIs, and modern full-stack web applicat
 
 <p align="center">
 
-<a href="https://linkedin.com/in/kaustav-m0ndal2005">
+<a href="www.linkedin.com/in/kaustav-mondal2005">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
