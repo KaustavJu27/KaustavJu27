@@ -88,7 +88,7 @@ Medicine Reminder & Expiry Tracker with secure authentication and dashboard.
 
 <p align="center">
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href[="(https://github.com/KaustavJu27/MediMinder_2026)">
 Repository
 </a>
 
@@ -124,7 +124,7 @@ Modern URL Shortener with analytics dashboard and QR generation.
 
 <p align="center">
 
-<a href="YOUR_REPOSITORY_LINK">
+<a href="(https://github.com/KaustavJu27/ZipLink)">
 Repository
 </a>
 
@@ -164,9 +164,9 @@ A centralized placement preparation platform with company-wise resources, aptitu
 
 <p align="center">
 
-<!-- <a href="YOUR_LIVE_DEMO_LINK"> Live Demo</a>
-&nbsp;&nbsp;| &nbsp;&nbsp; -->
-<a href="YOUR_REPOSITORY_LINK"> Repository</a>
+<a href="https://github.com/KaustavJu27/career-bloom-next">
+Repository
+</a>
 
 </p>
 
