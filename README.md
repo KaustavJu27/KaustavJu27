@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Kaustav%20Mondal&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-# # Hi there! 👋
+## Hi there! 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+Something+New"/>
 
