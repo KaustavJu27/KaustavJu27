@@ -64,7 +64,9 @@ Building scalable backend systems, REST APIs, and modern full-stack web applicat
 
 <p align="center">
 
-<img src="https://placehold.co/500x260/111827/ffffff?text=MediMinder"/>
+<!-- <img src="https://placehold.co/500x260/111827/ffffff?text=MediMinder"/> -->
+<img width="1887" height="908" alt="image" src="https://github.com/user-attachments/assets/51156a89-da2e-4dd8-a85f-66ebc972d80b" />
+
 
 </p>
 
@@ -102,7 +104,9 @@ Repository
 
 <p align="center">
 
-<img src="https://placehold.co/500x260/111827/ffffff?text=ZipLink"/>
+<img width="1898" height="846" alt="image" src="https://github.com/user-attachments/assets/a7cf1f3f-c6e9-4cf3-9d2f-f049933965d4" />
+
+<!-- <img src="https://placehold.co/500x260/111827/ffffff?text=ZipLink"/> -->
 
 </p>
 
@@ -138,7 +142,8 @@ Repository
 
 <p align="center">
 
-<img src="https://placehold.co/500x260/111827/ffffff?text=Placement+Hub"/>
+<!-- <img src="https://placehold.co/500x260/111827/ffffff?text=Placement+Hub"/> -->
+<img width="1880" height="867" alt="image" src="https://github.com/user-attachments/assets/cdd3a393-b7e9-42e3-8240-46a0f1d6b2a7" />
 
 </p>
 
