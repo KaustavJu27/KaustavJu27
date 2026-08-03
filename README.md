@@ -4,7 +4,9 @@
 
 # Hi 👋 I'm Kaustav Mondal
 
-### Backend Developer • Full Stack Enthusiast • IT Undergraduate @ Jadavpur University
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;Full+Stack+Developer;Building+Scalable+Web+Applications;Always+Learning+Something+New"/>
+
+###  Full Stack Enthusiast • IT Undergraduate @ Jadavpur University
 
 Building scalable backend systems, REST APIs, and modern full-stack web applications.
 
@@ -215,17 +217,17 @@ Repository
 ---
 
 
-# 🏙️ GitHub Skyline
 
-<p align="center">
 
-<a href="https://skyline.github.com/KaustavJu27">
+<!-- <p align="center"> -->
 
-<img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- <a href="https://skyline.github.com/KaustavJu27"> -->
 
-</a>
+<!-- <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline-24292F?style=for-the-badge&logo=github&logoColor=white"/> # 🏙️ GitHub Skyline -->
 
-</p>
+<!-- </a> -->
+
+<!-- </p> -->
 
 
 <!-- <p align="center"> -->
